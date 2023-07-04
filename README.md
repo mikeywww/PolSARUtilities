@@ -1,2 +1,3 @@
 # PolSARUtilities
-Utilities of pol-SAR data processing in Matlab
+Some utilities of pol-SAR data processing in Matlab
+
